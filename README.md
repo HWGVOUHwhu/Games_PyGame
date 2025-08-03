@@ -4,6 +4,6 @@
 
 ### Flappy Bird
 
-'''
+```
 python FlappyBird/game.py
-'''
+```
